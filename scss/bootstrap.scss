@@ -51,4 +51,11 @@
 // scss-docs-end import-stack
 
 //NUESTRO CSS
-@import "index"
+@import "header";
+@import "footer";
+@import "index";
+@import "servicios";
+@import "nosotros";
+@import "contactos";
+@import "clientes";
+@import "media";
