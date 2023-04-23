@@ -11004,6 +11004,7 @@ body {
 .Footer {
   grid-area: "footer";
   background-color: #6aa565;
+  margin-top: 0;
 }
 
 .Img__F {
@@ -11108,6 +11109,16 @@ body {
   align-items: center;
 }
 
+.Bg__S {
+  background-color: #7D8F69;
+}
+
+.TX__S {
+  color: white;
+  font-size: 19px;
+  width: 100%;
+}
+
 @media (max-width: 768px) {
   .Tit__1 {
     font-size: 50px;
@@ -11190,7 +11201,7 @@ body {
 }
 
 .H__CAR {
-  font-size: 70px;
+  font-size: 60px;
   color: white;
   display: flex;
   justify-content: center;

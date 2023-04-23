@@ -42,7 +42,7 @@ body{font-family: 'Nerko One', cursive; margin: 0; padding: 0;}
     }
 
 //FOOTER
-.Footer{grid-area: "footer"; background-color: #6aa565}
+.Footer{grid-area: "footer"; background-color: #6aa565; margin-top: 0;}
 .Img__F{width: 60px; height: 60px;}
 .Logo__F{width: 20px; height: 20px;}
 .RRSS{display: flex; flex-direction: row; justify-content: space-around; align-items: center; padding: 5px; margin: 5px;}
