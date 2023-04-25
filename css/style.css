@@ -11499,5 +11499,20 @@ body {
     justify-content: center;
   }
 }
+.By {
+  display: grid;
+  min-height: 100vh;
+  grid-template-rows: auto 1fr auto;
+}
+
+.Grid__Index {
+  display: grid;
+  min-height: 100vh;
+  grid-template-rows: auto 1fr auto;
+}
+
+main {
+  background-color: #7D8F69;
+}
 
 /*# sourceMappingURL=style.css.map */
